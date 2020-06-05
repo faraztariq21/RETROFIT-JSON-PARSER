@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleJsonParser</string>
+    <string name="network_error_message">Oops! It looks like your phone has lost Internet connection</string>
+</resources>
